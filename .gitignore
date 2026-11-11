@@ -1,0 +1,11 @@
+# File video e audio pesanti: non vanno su GitHub
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.m4v
+*.mxf
+*.wav
+*.mp3
+*.aac
